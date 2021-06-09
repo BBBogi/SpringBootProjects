@@ -2,7 +2,7 @@
 Repository to hold all the projects created using Spring Boot
 
 # Project ClaimRestAPI:
-Link: https://github.com/BBBogi/SpringBootProjects/ClaimRestAPI
+Link: https://github.com/BBBogi/SpringBootProjects/tree/main/ClaimRestAPI
 Technologies used: 
 Java 11 JRE 
 Spring Boot 2.5.0 
